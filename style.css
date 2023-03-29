@@ -1,0 +1,28 @@
+.imgcenter{
+    width: auto;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-40%, -50%);
+}
+.header1{
+    width: auto;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-40%, -50%);
+}
+.email{
+    width: auto;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-40%, -50%);
+}
+.fb{
+    width: auto;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-40%, -50%);
+}
